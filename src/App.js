@@ -4,7 +4,7 @@ export default function App() {
   return (
     <h1>
       Please attempt "src/candidateSolutions/filterRedundantRules" (description
-      in README.md)
+      in readme.md)
     </h1>
   );
 }
