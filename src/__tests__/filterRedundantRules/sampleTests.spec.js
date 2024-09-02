@@ -1,5 +1,4 @@
-// const filterRedundantRules = require("../../candidateSolutions/filterRedundantRules");
-const filterRedundantRules = require('./implementation');
+const filterRedundantRules = require('../../candidateSolutions/filterRedundantRules');
 const {
   SAMPLE_0,
   SAMPLE_1,

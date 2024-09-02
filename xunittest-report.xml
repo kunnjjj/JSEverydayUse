@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites name="jest tests" tests="2" failures="0" errors="0" time="1.311">
   <testsuite name="src/__tests__/filterRedundantRules/sampleTests.spec.js" errors="0" failures="0" skipped="0" timestamp="2024-09-02T13:58:44" time="0.905" tests="2">
-    </testcase>
   </testsuite>
 </testsuites>
